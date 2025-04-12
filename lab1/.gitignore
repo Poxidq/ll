@@ -1,0 +1,4 @@
+files/*
+main
+go.sum
+output.txt
